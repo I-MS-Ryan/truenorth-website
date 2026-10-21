@@ -1,6 +1,6 @@
 # TrueNorth Group website
 
-A responsive, static website for TrueNorth Construction Code Services Group. No installation or build step is required. Open `dist/index.html` or serve the `dist` directory.
+A responsive, static website for TrueNorth Construction Codes Services Group. No installation or build step is required. Open `dist/index.html` or serve the `dist` directory.
 
 ## Content
 
