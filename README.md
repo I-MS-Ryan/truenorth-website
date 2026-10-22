@@ -23,7 +23,7 @@ A CNAME file is deliberately not included before domain ownership and repository
 - `scripts/make-pages.py` and `scripts/approved-content.html`: repeatable page generation from the approved content. The generator writes HTML only; CSS is maintained separately.
 - `dist/styles.css`: typography, colours, layout and responsive rules.
 - `dist/script.js`: navigation and copyright year.
-- `dist/assets/truenorth-logo.png`: supplied logo, displayed with CSS framing to keep the concept caption outside the visible logo area. The source image is unchanged.
+- `dist/assets/truenorth-logo.png`: latest supplied logo, displayed directly with CSS framing to keep the concept caption outside the visible logo area. No replacement lettering is overlaid; the source image is unchanged.
 - `dist/assets/prairie-river.png`: original AI-generated illustrative landscape, not an actual client project. Replace it with the preferred waiting-page photograph once reuse rights are confirmed.
 
 Before public launch, review the service descriptions, official business name, contact mailbox readiness and any jurisdiction-specific claims. The website describes possible scopes rather than declaring blanket regulatory authority.
